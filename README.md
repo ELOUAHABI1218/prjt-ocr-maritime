@@ -1,6 +1,6 @@
 # Ocirisation et Parsing des Documents Maritimes
 
-Pipeline complet d'océrisation (OCR), de parsing structurel, de stockage, de génération d'alertes réglementaires et de supervision pour les documents maritimes traités par une autorité portuaire — projet de fin d'études réalisé dans le contexte de Tanger Med Port Authority.
+Pipeline complet d'océrisation (OCR), de parsing structurel, de stockage, de génération d'alertes réglementaires et de supervision pour les documents maritimes traités par une autorité portuaire — projet de fin d'Anne  réalisé dans le contexte de Tanger Med Port Authority.
 
 Trois familles de documents sont couvertes :
 - **Health** — Maritime Declaration of Health (déclaration maritime de santé)
