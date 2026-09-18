@@ -21,13 +21,8 @@ Trois familles de documents sont couvertes :
 - [Limitations connues](#limitations-connues)
 
 ## Architecture
+<img width="743" height="379" alt="image" src="https://github.com/user-attachments/assets/9c63590c-c113-44fb-8169-61d99ae51609" />
 
-```
-PDF scanné → Conversion en image → Prétraitement → OCR (PaddleOCR)
-    → Extraction spatiale (parsing par ancrage de libellés) → JSON structuré
-    → Base de données (PostgreSQL) → Moteur d'alertes → API (FastAPI)
-    → Tableau de bord de supervision (React)
-```
 
 Le parsing repose sur une approche déterministe par **coordonnées de positionnement (boîtes englobantes)** plutôt que sur un modèle de langage — des essais avec des LLM légers (Qwen2.5:3b, Phi) servis localement via Ollama ont montré un temps de traitement bien supérieur et une extraction de champs insuffisamment fiable sur les tableaux denses, ce qui a motivé ce choix.
 
