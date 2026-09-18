@@ -1,0 +1,922 @@
+[
+  {
+    "text": "aall staall",
+    "confidence": 0.6586354970932007,
+    "bbox": {
+      "x0": 1846.0,
+      "y0": 99.0,
+      "x1": 2027.0,
+      "y1": 139.0
+    }
+  },
+  {
+    "text": "ROYAUME DU MAROC",
+    "confidence": 0.9995487928390503,
+    "bbox": {
+      "x0": 377.0,
+      "y0": 102.0,
+      "x1": 753.0,
+      "y1": 150.0
+    }
+  },
+  {
+    "text": "all Bl",
+    "confidence": 0.6456406712532043,
+    "bbox": {
+      "x0": 1861.0,
+      "y0": 143.0,
+      "x1": 2020.0,
+      "y1": 183.0
+    }
+  },
+  {
+    "text": "Ministére de La Santé",
+    "confidence": 0.955661416053772,
+    "bbox": {
+      "x0": 402.0,
+      "y0": 153.0,
+      "x1": 731.0,
+      "y1": 190.0
+    }
+  },
+  {
+    "text": "Bai all pa i",
+    "confidence": 0.5900359749794006,
+    "bbox": {
+      "x0": 1780.0,
+      "y0": 175.0,
+      "x1": 2093.0,
+      "y1": 223.0
+    }
+  },
+  {
+    "text": "Délégation de La Province Fahs Anjra",
+    "confidence": 0.9939637780189514,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 186.0,
+      "x1": 842.0,
+      "y1": 230.0
+    }
+  },
+  {
+    "text": "gf aA 2l",
+    "confidence": 0.5176489353179932,
+    "bbox": {
+      "x0": 1802.0,
+      "y0": 216.0,
+      "x1": 2071.0,
+      "y1": 256.0
+    }
+  },
+  {
+    "text": "Contrle sanitaire aux frontieres",
+    "confidence": 0.9797827005386353,
+    "bbox": {
+      "x0": 329.0,
+      "y0": 230.0,
+      "x1": 805.0,
+      "y1": 267.0
+    }
+  },
+  {
+    "text": "bugil 2qib cliyr",
+    "confidence": 0.6147698163986206,
+    "bbox": {
+      "x0": 1816.0,
+      "y0": 256.0,
+      "x1": 2068.0,
+      "y1": 296.0
+    }
+  },
+  {
+    "text": "Port Tanger- Med",
+    "confidence": 0.9895358681678772,
+    "bbox": {
+      "x0": 432.0,
+      "y0": 267.0,
+      "x1": 701.0,
+      "y1": 307.0
+    }
+  },
+  {
+    "text": "Tanger",
+    "confidence": 0.9999433159828186,
+    "bbox": {
+      "x0": 509.0,
+      "y0": 307.0,
+      "x1": 624.0,
+      "y1": 343.0
+    }
+  },
+  {
+    "text": "Maritime Declaration of Health",
+    "confidence": 0.9991872310638428,
+    "bbox": {
+      "x0": 845.0,
+      "y0": 497.0,
+      "x1": 1632.0,
+      "y1": 544.0
+    }
+  },
+  {
+    "text": "To be completed and submitted to the competent authorities by the masters of ships arriving from foreign ports.",
+    "confidence": 0.9955074787139893,
+    "bbox": {
+      "x0": 314.0,
+      "y0": 621.0,
+      "x1": 2163.0,
+      "y1": 669.0
+    }
+  },
+  {
+    "text": "Submitted at the port of",
+    "confidence": 0.9772539138793945,
+    "bbox": {
+      "x0": 292.0,
+      "y0": 731.0,
+      "x1": 735.0,
+      "y1": 778.0
+    }
+  },
+  {
+    "text": "TANGER MED",
+    "confidence": 0.9995096325874329,
+    "bbox": {
+      "x0": 820.0,
+      "y0": 727.0,
+      "x1": 1115.0,
+      "y1": 775.0
+    }
+  },
+  {
+    "text": "Date",
+    "confidence": 0.9998448491096497,
+    "bbox": {
+      "x0": 1296.0,
+      "y0": 734.0,
+      "x1": 1392.0,
+      "y1": 778.0
+    }
+  },
+  {
+    "text": "08/07/2026",
+    "confidence": 0.9999703168869019,
+    "bbox": {
+      "x0": 1743.0,
+      "y0": 731.0,
+      "x1": 1960.0,
+      "y1": 771.0
+    }
+  },
+  {
+    "text": " Name of Ship or inland",
+    "confidence": 0.9952573180198669,
+    "bbox": {
+      "x0": 284.0,
+      "y0": 826.0,
+      "x1": 720.0,
+      "y1": 873.0
+    }
+  },
+  {
+    "text": "navigation vessel",
+    "confidence": 0.9996047019958496,
+    "bbox": {
+      "x0": 292.0,
+      "y0": 884.0,
+      "x1": 617.0,
+      "y1": 921.0
+    }
+  },
+  {
+    "text": "SINO FAITH",
+    "confidence": 0.9991264343261719,
+    "bbox": {
+      "x0": 827.0,
+      "y0": 877.0,
+      "x1": 1067.0,
+      "y1": 917.0
+    }
+  },
+  {
+    "text": "IMO Number",
+    "confidence": 0.9845799207687378,
+    "bbox": {
+      "x0": 1296.0,
+      "y0": 881.0,
+      "x1": 1543.0,
+      "y1": 921.0
+    }
+  },
+  {
+    "text": "9375575",
+    "confidence": 0.9999765157699585,
+    "bbox": {
+      "x0": 1743.0,
+      "y0": 877.0,
+      "x1": 1916.0,
+      "y1": 917.0
+    }
+  },
+  {
+    "text": "Arriving from (Last port) *",
+    "confidence": 0.9910755753517151,
+    "bbox": {
+      "x0": 292.0,
+      "y0": 987.0,
+      "x1": 768.0,
+      "y1": 1034.0
+    }
+  },
+  {
+    "text": " SANTOS.BRAZIL",
+    "confidence": 0.9962128400802612,
+    "bbox": {
+      "x0": 812.0,
+      "y0": 987.0,
+      "x1": 1152.0,
+      "y1": 1023.0
+    }
+  },
+  {
+    "text": "Sailing to (Next port)",
+    "confidence": 0.971574604511261,
+    "bbox": {
+      "x0": 1296.0,
+      "y0": 987.0,
+      "x1": 1687.0,
+      "y1": 1034.0
+    }
+  },
+  {
+    "text": " TANGER MED",
+    "confidence": 0.9794861078262329,
+    "bbox": {
+      "x0": 1735.0,
+      "y0": 990.0,
+      "x1": 2027.0,
+      "y1": 1027.0
+    }
+  },
+  {
+    "text": "Nationality / Flag of vessel PANAMA",
+    "confidence": 0.9814067482948303,
+    "bbox": {
+      "x0": 292.0,
+      "y0": 1100.0,
+      "x1": 1008.0,
+      "y1": 1147.0
+    }
+  },
+  {
+    "text": "Master's Name",
+    "confidence": 0.9987406134605408,
+    "bbox": {
+      "x0": 1292.0,
+      "y0": 1100.0,
+      "x1": 1584.0,
+      "y1": 1147.0
+    }
+  },
+  {
+    "text": "GONG YANJUN",
+    "confidence": 0.9992386102676392,
+    "bbox": {
+      "x0": 1743.0,
+      "y0": 1100.0,
+      "x1": 2056.0,
+      "y1": 1147.0
+    }
+  },
+  {
+    "text": "International Gross",
+    "confidence": 0.9998397827148438,
+    "bbox": {
+      "x0": 284.0,
+      "y0": 1195.0,
+      "x1": 650.0,
+      "y1": 1242.0
+    }
+  },
+  {
+    "text": "International Net",
+    "confidence": 0.998208224773407,
+    "bbox": {
+      "x0": 1292.0,
+      "y0": 1199.0,
+      "x1": 1613.0,
+      "y1": 1246.0
+    }
+  },
+  {
+    "text": "Tonnage (GT)",
+    "confidence": 0.998845100402832,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 1246.0,
+      "x1": 565.0,
+      "y1": 1297.0
+    }
+  },
+  {
+    "text": " 29283",
+    "confidence": 0.943310022354126,
+    "bbox": {
+      "x0": 816.0,
+      "y0": 1242.0,
+      "x1": 956.0,
+      "y1": 1294.0
+    }
+  },
+  {
+    "text": "Tonnage (NT)",
+    "confidence": 0.9997909069061279,
+    "bbox": {
+      "x0": 1288.0,
+      "y0": 1238.0,
+      "x1": 1570.0,
+      "y1": 1298.0
+    }
+  },
+  {
+    "text": "15937",
+    "confidence": 0.9999677538871765,
+    "bbox": {
+      "x0": 1735.0,
+      "y0": 1242.0,
+      "x1": 1872.0,
+      "y1": 1294.0
+    }
+  },
+  {
+    "text": "Has ship / inland navigation vessel visited an affected area identified by",
+    "confidence": 0.9904659390449524,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 1345.0,
+      "x1": 1613.0,
+      "y1": 1392.0
+    }
+  },
+  {
+    "text": "World Health Organization?",
+    "confidence": 0.9997516870498657,
+    "bbox": {
+      "x0": 292.0,
+      "y0": 1392.0,
+      "x1": 812.0,
+      "y1": 1440.0
+    }
+  },
+  {
+    "text": "NO",
+    "confidence": 0.9989818334579468,
+    "bbox": {
+      "x0": 1935.0,
+      "y0": 1392.0,
+      "x1": 2012.0,
+      "y1": 1436.0
+    }
+  },
+  {
+    "text": "Port and date of visit (affected area)",
+    "confidence": 0.9810953736305237,
+    "bbox": {
+      "x0": 292.0,
+      "y0": 1506.0,
+      "x1": 967.0,
+      "y1": 1553.0
+    }
+  },
+  {
+    "text": " N/A",
+    "confidence": 0.9113729000091553,
+    "bbox": {
+      "x0": 982.0,
+      "y0": 1506.0,
+      "x1": 1082.0,
+      "y1": 1546.0
+    }
+  },
+  {
+    "text": "Number of crew members",
+    "confidence": 0.9954041838645935,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 1604.0,
+      "x1": 779.0,
+      "y1": 1652.0
+    }
+  },
+  {
+    "text": "Number of passenger",
+    "confidence": 0.9996156096458435,
+    "bbox": {
+      "x0": 1296.0,
+      "y0": 1604.0,
+      "x1": 1709.0,
+      "y1": 1652.0
+    }
+  },
+  {
+    "text": "on board**",
+    "confidence": 0.9598310589790344,
+    "bbox": {
+      "x0": 292.0,
+      "y0": 1655.0,
+      "x1": 495.0,
+      "y1": 1696.0
+    }
+  },
+  {
+    "text": "22",
+    "confidence": 0.9999604225158691,
+    "bbox": {
+      "x0": 831.0,
+      "y0": 1655.0,
+      "x1": 879.0,
+      "y1": 1685.0
+    }
+  },
+  {
+    "text": "on board**",
+    "confidence": 0.9996877908706665,
+    "bbox": {
+      "x0": 1300.0,
+      "y0": 1655.0,
+      "x1": 1492.0,
+      "y1": 1696.0
+    }
+  },
+  {
+    "text": "0",
+    "confidence": 0.9997302889823914,
+    "bbox": {
+      "x0": 1739.0,
+      "y0": 1655.0,
+      "x1": 1772.0,
+      "y1": 1688.0
+    }
+  },
+  {
+    "text": "Health Questions",
+    "confidence": 0.9997771978378296,
+    "bbox": {
+      "x0": 284.0,
+      "y0": 1761.0,
+      "x1": 668.0,
+      "y1": 1816.0
+    }
+  },
+  {
+    "text": "YES",
+    "confidence": 0.9975951313972473,
+    "bbox": {
+      "x0": 1953.0,
+      "y0": 1761.0,
+      "x1": 2093.0,
+      "y1": 1812.0
+    }
+  },
+  {
+    "text": "NO",
+    "confidence": 0.9972732067108154,
+    "bbox": {
+      "x0": 2075.0,
+      "y0": 1761.0,
+      "x1": 2197.0,
+      "y1": 1812.0
+    }
+  },
+  {
+    "text": "Has any person died on board during the voyage otherwise than as a result of an",
+    "confidence": 0.994651198387146,
+    "bbox": {
+      "x0": 380.0,
+      "y0": 1820.0,
+      "x1": 1916.0,
+      "y1": 1867.0
+    }
+  },
+  {
+    "text": "accident?",
+    "confidence": 0.9999285936355591,
+    "bbox": {
+      "x0": 388.0,
+      "y0": 1871.0,
+      "x1": 572.0,
+      "y1": 1911.0
+    }
+  },
+  {
+    "text": " If YEs, state particulars in attached schedule. Total number of deaths....",
+    "confidence": 0.9825041890144348,
+    "bbox": {
+      "x0": 380.0,
+      "y0": 1911.0,
+      "x1": 1732.0,
+      "y1": 1966.0
+    }
+  },
+  {
+    "text": "2.",
+    "confidence": 0.9743626117706299,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 1992.0,
+      "x1": 325.0,
+      "y1": 2024.0
+    }
+  },
+  {
+    "text": "Is there on board or has there been during the international voyage any case of",
+    "confidence": 0.9970186352729797,
+    "bbox": {
+      "x0": 384.0,
+      "y0": 1984.0,
+      "x1": 1924.0,
+      "y1": 2032.0
+    }
+  },
+  {
+    "text": "disease which you suspect to be of an infectious nature?",
+    "confidence": 0.9871757626533508,
+    "bbox": {
+      "x0": 391.0,
+      "y0": 2039.0,
+      "x1": 1440.0,
+      "y1": 2076.0
+    }
+  },
+  {
+    "text": "3.",
+    "confidence": 0.9999704957008362,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 2097.0,
+      "x1": 329.0,
+      "y1": 2134.0
+    }
+  },
+  {
+    "text": " Has the total number of ill persons during the voyage been greater than normal /",
+    "confidence": 0.9724256992340088,
+    "bbox": {
+      "x0": 377.0,
+      "y0": 2086.0,
+      "x1": 1924.0,
+      "y1": 2141.0
+    }
+  },
+  {
+    "text": "v",
+    "confidence": 0.7615863680839539,
+    "bbox": {
+      "x0": 2086.0,
+      "y0": 2085.0,
+      "x1": 2145.0,
+      "y1": 2145.0
+    }
+  },
+  {
+    "text": "expected? How many ill persons?",
+    "confidence": 0.9935128688812256,
+    "bbox": {
+      "x0": 388.0,
+      "y0": 2138.0,
+      "x1": 1019.0,
+      "y1": 2185.0
+    }
+  },
+  {
+    "text": "4.",
+    "confidence": 0.9999334812164307,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 2207.0,
+      "x1": 329.0,
+      "y1": 2236.0
+    }
+  },
+  {
+    "text": "paaaee ui siene!ied aes 'soa ol tmou paeoa uo uosaad yols lue aaaaa si",
+    "confidence": 0.5411958694458008,
+    "bbox": {
+      "x0": 380.0,
+      "y0": 2196.0,
+      "x1": 1924.0,
+      "y1": 2244.0
+    }
+  },
+  {
+    "text": "V",
+    "confidence": 0.5749309062957764,
+    "bbox": {
+      "x0": 2104.0,
+      "y0": 2203.0,
+      "x1": 2134.0,
+      "y1": 2240.0
+    }
+  },
+  {
+    "text": "schedule.",
+    "confidence": 0.9996441602706909,
+    "bbox": {
+      "x0": 388.0,
+      "y0": 2251.0,
+      "x1": 569.0,
+      "y1": 2288.0
+    }
+  },
+  {
+    "text": "5.",
+    "confidence": 0.9980213642120361,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 2302.0,
+      "x1": 325.0,
+      "y1": 2339.0
+    }
+  },
+  {
+    "text": "Was a medical practitioner consulted? If YEs, state particulars of medical",
+    "confidence": 0.9901938438415527,
+    "bbox": {
+      "x0": 380.0,
+      "y0": 2291.0,
+      "x1": 1916.0,
+      "y1": 2346.0
+    }
+  },
+  {
+    "text": "treatment or advice provided in attached schedule.",
+    "confidence": 0.9905920624732971,
+    "bbox": {
+      "x0": 384.0,
+      "y0": 2339.0,
+      "x1": 1325.0,
+      "y1": 2386.0
+    }
+  },
+  {
+    "text": "6.",
+    "confidence": 0.8066455125808716,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 2423.0,
+      "x1": 329.0,
+      "y1": 2459.0
+    }
+  },
+  {
+    "text": "Are you aware of any condition on board which may lead to infection or the spread",
+    "confidence": 0.9969784021377563,
+    "bbox": {
+      "x0": 384.0,
+      "y0": 2415.0,
+      "x1": 1924.0,
+      "y1": 2463.0
+    }
+  },
+  {
+    "text": "of disease?",
+    "confidence": 0.9880401492118835,
+    "bbox": {
+      "x0": 380.0,
+      "y0": 2455.0,
+      "x1": 610.0,
+      "y1": 2515.0
+    }
+  },
+  {
+    "text": "Has any sanitary measure (e.g. quarantine, isolation,",
+    "confidence": 0.9963929057121277,
+    "bbox": {
+      "x0": 377.0,
+      "y0": 2525.0,
+      "x1": 1621.0,
+      "y1": 2580.0
+    }
+  },
+  {
+    "text": " disinfection",
+    "confidence": 0.9887553453445435,
+    "bbox": {
+      "x0": 1610.0,
+      "y0": 2536.0,
+      "x1": 1835.0,
+      "y1": 2573.0
+    }
+  },
+  {
+    "text": "or",
+    "confidence": 0.9994422793388367,
+    "bbox": {
+      "x0": 1870.0,
+      "y0": 2534.0,
+      "x1": 1918.0,
+      "y1": 2575.0
+    }
+  },
+  {
+    "text": "v",
+    "confidence": 0.590130627155304,
+    "bbox": {
+      "x0": 2094.0,
+      "y0": 2528.0,
+      "x1": 2140.0,
+      "y1": 2577.0
+    }
+  },
+  {
+    "text": "decontamination) been applied on board? If YEs, specify type, place and date.",
+    "confidence": 0.9820143580436707,
+    "bbox": {
+      "x0": 388.0,
+      "y0": 2576.0,
+      "x1": 1839.0,
+      "y1": 2627.0
+    }
+  },
+  {
+    "text": "8.",
+    "confidence": 0.9998574256896973,
+    "bbox": {
+      "x0": 281.0,
+      "y0": 2646.0,
+      "x1": 332.0,
+      "y1": 2689.0
+    }
+  },
+  {
+    "text": "known)?",
+    "confidence": 0.9997900128364563,
+    "bbox": {
+      "x0": 388.0,
+      "y0": 2697.0,
+      "x1": 554.0,
+      "y1": 2737.0
+    }
+  },
+  {
+    "text": "9.",
+    "confidence": 0.9999834299087524,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 2763.0,
+      "x1": 329.0,
+      "y1": 2795.0
+    }
+  },
+  {
+    "text": "Is there a sick animal or pet on board?",
+    "confidence": 0.9992741346359253,
+    "bbox": {
+      "x0": 384.0,
+      "y0": 2759.0,
+      "x1": 1100.0,
+      "y1": 2795.0
+    }
+  },
+  {
+    "text": "V",
+    "confidence": 0.8425382971763611,
+    "bbox": {
+      "x0": 2108.0,
+      "y0": 2770.0,
+      "x1": 2127.0,
+      "y1": 2792.0
+    }
+  },
+  {
+    "text": " Note: In the absence of a surgeon, the Master should regard the following symptoms as grounds for suspecting the existence of",
+    "confidence": 0.9865670204162598,
+    "bbox": {
+      "x0": 281.0,
+      "y0": 2828.0,
+      "x1": 2193.0,
+      "y1": 2876.0
+    }
+  },
+  {
+    "text": "disease of an infectious nature:",
+    "confidence": 0.9996744990348816,
+    "bbox": {
+      "x0": 292.0,
+      "y0": 2869.0,
+      "x1": 764.0,
+      "y1": 2905.0
+    }
+  },
+  {
+    "text": "a) fever, persisting for several days or accompanied by prostration, decreased consciousness, glandular swelling, jaundice.",
+    "confidence": 0.9948406219482422,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 2901.0,
+      "x1": 2182.0,
+      "y1": 2949.0
+    }
+  },
+  {
+    "text": "cough or shortness of breath, unusual bleeding, or paralysis",
+    "confidence": 0.9953221678733826,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 2938.0,
+      "x1": 1185.0,
+      "y1": 2989.0
+    }
+  },
+  {
+    "text": "b) with or without fever: any acute skin rash or eruption, severe vomiting (other than sea sickness); severe diarrhoea, or",
+    "confidence": 0.9980316162109375,
+    "bbox": {
+      "x0": 288.0,
+      "y0": 2985.0,
+      "x1": 2182.0,
+      "y1": 3022.0
+    }
+  },
+  {
+    "text": "recurrent convulsions",
+    "confidence": 0.9996891021728516,
+    "bbox": {
+      "x0": 292.0,
+      "y0": 3029.0,
+      "x1": 613.0,
+      "y1": 3055.0
+    }
+  },
+  {
+    "text": "Valid Sanitation Control Exemption/Control Certificate carried on board?",
+    "confidence": 0.9982287287712097,
+    "bbox": {
+      "x0": 292.0,
+      "y0": 3088.0,
+      "x1": 1624.0,
+      "y1": 3135.0
+    }
+  },
+  {
+    "text": "YES",
+    "confidence": 0.9997081756591797,
+    "bbox": {
+      "x0": 1783.0,
+      "y0": 3088.0,
+      "x1": 1872.0,
+      "y1": 3132.0
+    }
+  },
+  {
+    "text": "NO",
+    "confidence": 0.9887890815734863,
+    "bbox": {
+      "x0": 2034.0,
+      "y0": 3088.0,
+      "x1": 2108.0,
+      "y1": 3132.0
+    }
+  },
+  {
+    "text": "Date",
+    "confidence": 0.9998290538787842,
+    "bbox": {
+      "x0": 635.0,
+      "y0": 3165.0,
+      "x1": 731.0,
+      "y1": 3208.0
+    }
+  },
+  {
+    "text": "2026/01/22",
+    "confidence": 0.9999634027481079,
+    "bbox": {
+      "x0": 1022.0,
+      "y0": 3153.0,
+      "x1": 1252.0,
+      "y1": 3213.0
+    }
+  },
+  {
+    "text": "issued at:",
+    "confidence": 0.9984248876571655,
+    "bbox": {
+      "x0": 1503.0,
+      "y0": 3168.0,
+      "x1": 1698.0,
+      "y1": 3205.0
+    }
+  },
+  {
+    "text": "UST-LUGA,RUSSIA",
+    "confidence": 0.9990491271018982,
+    "bbox": {
+      "x0": 1684.0,
+      "y0": 3161.0,
+      "x1": 2104.0,
+      "y1": 3208.0
+    }
+  }
+]

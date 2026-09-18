@@ -1,0 +1,143 @@
+:root {
+  /* ---- Couleurs : identité Tanger Med Port Authority (bleu / bleu marine) ---- */
+  --ink-0: #0a141d;       /* fond général, bleu-nuit profond */
+  --ink-1: #0f1e29;       /* fond des panneaux */
+  --ink-2: #16293650;     /* survol / zones actives */
+  --hairline: #223648;    /* bordures fines, comme un cadre d'instrument */
+  --hairline-bright: #34526a;
+
+  --text-primary: #e8eff2;
+  --text-muted: #7f97a8;
+  --text-faint: #4d6377;
+
+  /* Accents de marque — bleu et bleu marine, repris du logo */
+  --accent-blue: #2f8fe0;        /* bleu vif — accent principal */
+  --accent-blue-dim: #153a5c;
+  --accent-navy: #15294b;        /* bleu marine — accent secondaire */
+  --accent-navy-dim: #0b1728;
+  --accent-steel: #6f9bc7;       /* bleu acier — 3e teinte pour distinguer un 3e type */
+  --accent-steel-dim: #2a4a6e;
+
+  /* Anciens alias conservés pour compat (mêmes usages, nouvelles valeurs) */
+  --accent-green: var(--accent-blue);
+  --accent-green-dim: var(--accent-blue-dim);
+  --accent-violet: var(--accent-navy);
+  --accent-violet-dim: var(--accent-navy-dim);
+
+  /* Couleurs FONCTIONNELLES de sévérité — volontairement distinctes de la marque
+     (rouge/orange/vert universels de sécurité), pour que la lecture d'une alerte
+     critique reste immédiate et ne se confonde pas avec la charte bleue. */
+  --danger: #ff4d4d;
+  --danger-dim: #5a1f1f;
+  --warning: #ff8c3a;
+  --warning-dim: #8a4a1e;
+  --ok: #3ecf7e;
+  --ok-dim: #1a4a30;
+
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-body: 'IBM Plex Sans', sans-serif;
+  --font-data: 'IBM Plex Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--ink-0);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 150ms ease, color 150ms ease;
+  color-scheme: dark;
+}
+
+[data-theme="light"] {
+  color-scheme: light;
+}
+
+body {
+  background-image:
+    radial-gradient(ellipse 900px 500px at 15% -10%, #163a2a 0%, transparent 60%),
+    radial-gradient(ellipse 700px 500px at 100% 10%, #2a1a3a 0%, transparent 55%);
+  background-attachment: fixed;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a { color: inherit; }
+
+::selection {
+  background: var(--accent-green-dim);
+  color: var(--text-primary);
+}
+
+/* Barre de défilement discrète, dans l'esprit instrument */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--hairline-bright); border-radius: 4px; }
+
+button {
+  font-family: var(--font-body);
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent-green);
+  outline-offset: 2px;
+}
+
+.spin {
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+/* ============================================================
+   THÈME CLAIR — activé via [data-theme="light"] sur <html>
+   ============================================================ */
+[data-theme="light"] {
+  --ink-0: #f4f6f8;
+  --ink-1: #ffffff;
+  --ink-2: #eef1f4;
+  --hairline: #dbe2e8;
+  --hairline-bright: #c2ccd4;
+
+  --text-primary: #16222c;
+  --text-muted: #45566a;
+  --text-faint: #78899a;
+
+  /* Les teintes calibrées pour fond sombre perdent du contraste sur fond
+     clair (un bleu/orange/rouge assez lumineux devient difficile à lire
+     sur blanc) — on les assombrit ici spécifiquement pour le thème clair,
+     sans toucher aux valeurs du thème sombre. */
+  --accent-blue: #1662b0;
+  --accent-blue-dim: #d6e8fa;
+  --accent-navy: #0d1e38;
+  --accent-navy-dim: #dbe3ee;
+  --accent-steel: #2f5f8c;
+  --accent-steel-dim: #dfe9f2;
+
+  --danger: #c62828;
+  --danger-dim: #fbe1e1;
+  --warning: #b5540a;
+  --warning-dim: #fbe6d3;
+  --ok: #1e8449;
+  --ok-dim: #ddf2e5;
+}
+
+[data-theme="light"] body {
+  background-image:
+    radial-gradient(ellipse 900px 500px at 15% -10%, #e3f5e9 0%, transparent 60%),
+    radial-gradient(ellipse 700px 500px at 100% 10%, #f0e6fa 0%, transparent 55%);
+}
